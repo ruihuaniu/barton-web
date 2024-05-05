@@ -1,6 +1,6 @@
 # Ruihua Web Project
 
-> [Live Demo](https://ruihua.vercel.app//)
+
 
 ### Web Application Structure
 
